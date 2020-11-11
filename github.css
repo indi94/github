@@ -1,0 +1,11 @@
+body{
+    background-color: #e6ceff !important;
+}
+.search{
+    text-align: center;
+}
+.down{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
